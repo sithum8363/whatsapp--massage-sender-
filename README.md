@@ -71,7 +71,6 @@ Before running the program:
 ```text
 whatsapp--massage-sender-/
 ├── main.py
-├── requirements.txt
 └── README.md
 ```
 
